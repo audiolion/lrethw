@@ -1,0 +1,8 @@
+# match every line that does not have vowels
+!match
+[^aeiouyAEIOUY]
+# caret inverts set, match matches first character
+# don't match what cthulu says
+[^X]
+# phone number match for not letters instead
+[^a-zA-Z]
