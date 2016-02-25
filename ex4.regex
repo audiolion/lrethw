@@ -1,0 +1,5 @@
+[aeiouy]
+[a-z]
+[0-9]
+# match phone number
+[315].*[585].*[4167]
